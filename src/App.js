@@ -89,7 +89,7 @@ function App() {
     <Container fluid className="mt-4">
       <Row className="justify-content-center">
         <Col md={8}>
-          <h1 className="text-center mb-4">အချိုးကျကိုယ်စားပြု ‌ရွေးကောက်ပွဲစနစ်</h1>
+          <h1 className="text-center mb-4">အချိုးကျကိုယ်စားပြု ‌ရွေးကောက်ပွဲစနစ် ကိုယ်စားလှယ်တွက်ချက်မှု</h1>
           <Form onSubmit={handleSubmit}>
           <Form.Group as={Row} controlId="electroalArea">
               <Form.Label column sm={4}>မဲဆန္ဒနယ်အမည်</Form.Label>
