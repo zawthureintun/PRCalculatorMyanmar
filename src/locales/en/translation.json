@@ -1,0 +1,22 @@
+{
+    "appTitle": "Election Calculator",
+    "pageTitle": "Proportional Representation Election System Calculator",
+    "electoralAreaLabel": "Electoral Area Name",
+    "totalValidVotesLabel": "Total Valid Votes",
+    "numberOfSeatsLabel": "Number of Seats",
+    "calculateButton": "Calculate",
+    "thresholdVoteLabel": "Votes needed for one representative",
+    "partyNamePlaceholder": "Party Name",
+    "partyVotesPlaceholder": "Number of Votes Received",
+    "addPartyButton": "Add Party",
+    "calculateWinnersButton": "Calculate Representative Results",
+    "resultsTableTitle": "Representative Count Results Table",
+    "partyNameHeader": "Party Name",
+    "totalVotesHeader": "Total Votes Received",
+    "initialWinnersHeader": "Initial Representatives Won",
+    "residualVotesHeader": "Residual Votes",
+    "additionalWinnersHeader": "Additional Representatives from Residual Votes",
+    "totalWinnersHeader": "Total Representatives",
+    "totalRow": "Total",
+    "developedBy": "Developed By ZTRT"
+  }

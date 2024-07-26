@@ -1,0 +1,22 @@
+{
+    "appTitle": "ရွေးကောက်ပွဲတွက်ချက်မှု",
+    "pageTitle": "အချိုးကျကိုယ်စားပြု ‌ရွေးကောက်ပွဲစနစ် တွက်ချက်မှု",
+    "electoralAreaLabel": "မဲဆန္ဒနယ်အမည်",
+    "totalValidVotesLabel": "ခိုင်လုံမဲစုစုပေါင်း",
+    "numberOfSeatsLabel": "ကိုယ်စားလှယ်အရေအတွက်",
+    "calculateButton": "တွက်ချက်ပါ",
+    "thresholdVoteLabel": "ကိုယ်စားလှယ်တစ်ဦးဖြစ်ရန်မဲ",
+    "partyNamePlaceholder": "ပါတီအမည်",
+    "partyVotesPlaceholder": "ရရှိသည့်ဆန္ဒမဲအရေအတွက်",
+    "addPartyButton": "ပါတီအမည်ထည့်သွင်းရန်",
+    "calculateWinnersButton": "ကိုယ်စားလှယ်ရလာဒ်တွက်ချက်ပါ",
+    "resultsTableTitle": "ကိုယ်စားလှယ်ဦးရေ ရလာဒ်ဇယား",
+    "partyNameHeader": "ပါတီအမည်",
+    "totalVotesHeader": "ရရှိသည့်ဆန္ဒမဲပေါင်း",
+    "initialWinnersHeader": "ကနဦးရရှိသည့်ကိုယ်စားလှယ်ဦးရေ",
+    "residualVotesHeader": "ကြွင်းကျန်မဲပေါင်း",
+    "additionalWinnersHeader": "ကြွင်းကျန်မဲမှထပ်မံရရှိသည့်ကိုယ်စားလှယ်ဦးရေ",
+    "totalWinnersHeader": "ကိုယ်စားလှယ်ဦးရေ",
+    "totalRow": "စုစုပေါင်း",
+    "developedBy": "Developed By ZTRT"
+  }
